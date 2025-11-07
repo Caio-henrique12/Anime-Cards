@@ -10,10 +10,10 @@
 
 <body>
     <div class="wrapper">
-        <div class="anime-card"><img src="Img/Arquiteto.jpg" alt="pic1"></div>
-        <div class="anime-card"><img src="Img/Goku Black.jpg" alt="pic2"></div>
-        <div class="anime-card"><img src="Img/Tanjiro.jpg" alt="pic3"></div>
-        <div class="anime-card"><img src="Img/Wolf.jpg" alt="pic4"></div>
+        <div class="anime-card"><img src="" alt="pic1"></div>
+        <div class="anime-card"><img src="" alt="pic2"></div>
+        <div class="anime-card"><img src="" alt="pic3"></div>
+        <div class="anime-card"><img src="" alt="pic4"></div>
     </div>
 
 </body>
