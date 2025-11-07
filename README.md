@@ -19,7 +19,7 @@
 </body>
 
 </html> 
-The code below use on CSS
+The code below use on CSS 
 *{
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
